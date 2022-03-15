@@ -16,7 +16,7 @@
 
  #Our developers:
  
- ![Download](https://user-images.githubusercontent.com/91054102/158330845-7225dc2d-7802-43e7-aac9-320c154b63ca.jpg) 
+ ![image](https://user-images.githubusercontent.com/91054007/158375686-337464b6-e54b-43a4-8f61-0867840b7b56.png)
  ![image](https://user-images.githubusercontent.com/91054102/158331186-90c5ee86-b6bc-4bdf-ae4d-e7f64d96c328.png)
  ![image](https://user-images.githubusercontent.com/91054007/158373813-e2b4ebe9-fd11-4fe6-8065-575a9e23456c.png)
  ![image](https://user-images.githubusercontent.com/91054007/158374123-154b8f4a-60d8-4a12-9f6a-56e469ed511d.png)
