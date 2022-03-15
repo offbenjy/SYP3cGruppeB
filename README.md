@@ -2,8 +2,9 @@
 
  Kundenportal: Firma Superman
  
- #Kontakt: 3c_n4qqers@gmail.com
+ #Kontakt: 3c_heroes@gmail.com
  
+ #Unser Teammaskotchen!
  
  https://docs.google.com/document/d/15AteE5KBKCDCBe8Akp48v6HjvbYVFKs5Rdy5eADPnBk/edit?usp=sharing
  
