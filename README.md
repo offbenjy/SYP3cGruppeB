@@ -2,10 +2,17 @@
 
  Kundenportal: Firma Superman
  
+ ##Our product owner
  
- High quality developers
- The best team strategy on the market
- ![image](https://user-images.githubusercontent.com/91054007/158330679-c2cfbd35-6720-49d4-8f31-642f7472a599.png)
+ ![WhatsApp Image 2022-03-15 at 08 49 53](https://user-images.githubusercontent.com/91054102/158331026-1c96bd09-486b-44c6-a234-9f956542fb78.jpeg)
+
+ 
+ ##Our developers
+ 
+ ![Download](https://user-images.githubusercontent.com/91054102/158330845-7225dc2d-7802-43e7-aac9-320c154b63ca.jpg) ![image](https://user-images.githubusercontent.com/91054102/158331186-90c5ee86-b6bc-4bdf-ae4d-e7f64d96c328.png)
+
+
+ 
 
  
  
