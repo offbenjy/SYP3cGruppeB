@@ -1,0 +1,16 @@
+class Customer{
+
+field List<Interests> interests
+
+method getCustomer() //holt die Kunden Login Daten
+
+method addCustomer() //speichert den Kunden in die CSV-Datei
+
+method deleteCustomer() //löscht den Kunden aus der CSV-Datei
+
+method addInterest() // speichert ein neues Interest
+
+method deleteInterest() // löscht nur eine bestimmtes Interest
+
+method clearInterests() // löscht alle Interests
+}
