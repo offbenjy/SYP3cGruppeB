@@ -1,0 +1,34 @@
+public class Documentpage{
+
+	String documentname;
+	double documentsize;
+	String documentauthor;
+	String documentend;
+
+	public Ducumentpage(){
+	}
+
+	get documentname
+	get documentsize
+	get documentauthor
+	get documentend
+
+	set documentname
+	set documentsize
+	set documentauthor
+	set documentend
+
+	toString --> documentname.documentend, documentauthor, documentsize
+	
+}
+
+public class Verwaltung implements Comparable{
+	
+	Documentpage d;
+	
+	public Verwaltung(Documentpage d){
+
+	}
+
+	sort --> nach name, größe, author, endung
+}
