@@ -1,0 +1,14 @@
+Class add interesse
+Add intesse to intessenslist
+
+Class add dok
+Add dok to doklist
+
+Change intessensname
+Intessenslist get name = new name
+
+Change dokname
+Doklist get name = new name
+
+Change doklink
+Doklist get name = new link
