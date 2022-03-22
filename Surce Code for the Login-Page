@@ -1,0 +1,28 @@
+public class LoginDataSource {
+
+    public Result<LoggedInUser> login(String username, String password) {
+            username = username.replaceAll("@gmx","");
+            username = username.replace("@gmail","");
+            username = username.replace("@sus.htl-grieskirchen","");
+            username = username.replace(".","");
+            username = username.replace(".net","");
+            username = username.replace(".at","");
+            username = username.replace(".de","");
+            username = username.toUpperCase(Locale.forLanguageTag(Character.toString(username.charAt(0))));
+
+        try {
+
+            LoggedInUser fakeUser =
+                    new LoggedInUser(
+                            java.util.UUID.randomUUID().toString(),
+                            username);
+            return new Result.Success<>(fakeUser);
+        } catch (Exception e) {
+            return new Result.Error(new IOException("Error logging in", e));
+        }
+    }
+
+    public void logout() {
+    }
+}
+
