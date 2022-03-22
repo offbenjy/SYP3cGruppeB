@@ -1,0 +1,21 @@
+class Interests{
+
+field List<Documents> documents
+
+field String interestName
+
+method addDocument() //fügt einer Interesse ein Dokument hinzu
+
+method deleteDocument(Document d) //löscht das Dokument im Parameter
+
+method clearDocuments() //löscht alle Dokumente einer Interesse
+
+method changeInterestName(String newName) //ändert den Namen der Interesse laut Parameter
+
+method sortDocuments(String sort) // sortiert Dokumente nach Alphabet laut Parameter (ASC/DESC)
+
+method getDocuments() // gibt alle Dokumente der Interesse zurück
+
+method setDocuments(List<Documents> documents) //falls bereits einer Liste von Dokumenten vorhanden ist können diese direkt gesetzt werden
+
+}
