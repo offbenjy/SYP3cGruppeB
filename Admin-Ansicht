@@ -17,3 +17,5 @@ show users
 for (userlist lenght)
   sout(user i)
   
+Set User inaktive
+Userlist get user set inaktive true
