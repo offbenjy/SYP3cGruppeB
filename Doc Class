@@ -1,0 +1,29 @@
+//Doc CLass
+class Documents{
+
+	List<Sting> docs;
+	method UpdateList(){
+		//Updated alle User.
+ }	
+
+
+	method SaveInList(){
+		//Erstellt eine Liste in der alle Infromationen zu einem 
+		//gewissen Dokument gespeichert sind.
+ }
+	method SetAuthor(){
+		//Legt den Author für das Dokument fest.
+ }
+	method SetPath(){
+ 		//Legt den Pfad des Dokuments fest.
+ }
+	method SetTypeOfData(){
+		//Legt den Datentyp des Dokuments fest.
+ }
+	method SetSize(){
+		//Legt die Größe des Dokuments fest.
+ }
+	method GetList(){
+ 		//Gibt die Liste der SaveInList Methode zurück.
+ }
+}
