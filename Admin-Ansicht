@@ -1,21 +1,24 @@
 Class add interesse
-Add intesse to intessenslist
+Add intesse to intessenslist{
+}
 
-Class add dok
+Class add dok{
 Add dok to doklist
+}
 
-Change intessensname
+Change intessensname{
 Intessenslist get name = new name
-
-Change dokname
+}
+Change dokname{
 Doklist get name = new name
-
-Change doklink
+}
+Change doklink{
 Doklist get name = new link
-
-show users
+}
+show users{
 for (userlist lenght)
   sout(user i)
-  
-Set User inaktive
+}  
+Set User inaktive{
 Userlist get user set inaktive true
+}
