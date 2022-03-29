@@ -17,7 +17,6 @@
  ## Our developers:
  
  
- ![60714d29-4c4c-4192-9dcc-eefc28adf7c1](https://user-images.githubusercontent.com/91053947/158373686-f7eca4a1-4d17-4ca1-859b-23fa4ff0051c.jpg)
  
  ![image](https://user-images.githubusercontent.com/91054007/158375686-337464b6-e54b-43a4-8f61-0867840b7b56.png)
  
